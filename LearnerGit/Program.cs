@@ -9,6 +9,10 @@
             {
                 Console.WriteLine("Hello Github");
             }
+
+            FileName file = new FileName();
+            file.Animal("Pirana");
+
         }
         // Yo
     }
